@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1696d39f907cdab40976889c7292d19a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioEat: {fileID: 8300000, guid: 45b4b857c4f65f646a34cc942f881d74, type: 3}
+  - audioJump: {fileID: 8300000, guid: ea4e355b7ee57aa40864afb50e698725, type: 3}
+  - audioDamaged: {fileID: 8300000, guid: fa7afa466f735644686c3d5f6cf6c9d5, type: 3}
+  - audioFever: {fileID: 8300000, guid: b6db89aa09ae7cd43a5d4223fa956b0f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
